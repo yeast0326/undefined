@@ -9,6 +9,8 @@ Ah, seems like when I need a gap, I can just __jump__ a line with no letters in 
 
 -------------------------
 
-Sorry I missed last week`s course. I am currently in US, but I will be back soon. ~~That will not influence my score, right?~~
+Sorry I missed last week`s course. And I have not figured out how to publish the html file.
+
+I am currently in US, but I will be back soon. ~~That will not influence my score, right?~~
 
 
